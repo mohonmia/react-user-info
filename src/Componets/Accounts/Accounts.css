@@ -1,0 +1,9 @@
+.accounts{
+    border-radius: 2px;
+    background: #efefef;
+    text-align: center;
+    box-shadow: 2px 2px 5px black;
+}
+.accounts h3{
+    color: #000000;
+}

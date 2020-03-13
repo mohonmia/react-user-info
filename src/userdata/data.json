@@ -1,0 +1,108 @@
+[
+    {
+        "name" : "Mohon Mia",
+        "designation" : "Android Developer",
+        "salary" : "1000",
+        "contact" : "+880 186019554",
+        "photo" : "https://i.ibb.co/Kyqn8fj/1.png"
+    },
+    {
+        "name" : "Narul Islam",
+        "designation" : "Web Developer",
+        "salary" : "50000",
+        "contact" : "+880 186019574",
+        "photo" : "https://i.ibb.co/Kyqn8fj/1.png"
+    },
+    {
+        "name" : "Din islam",
+        "designation" : "Hafez",
+        "salary" : "15000",
+        "contact" : "+880 186019574",
+        "photo" : "https://i.ibb.co/Kyqn8fj/1.png"
+    },
+    {
+        "name" : "Abdur Rahim",
+        "designation" : "Web Designer",
+        "salary" : "70000",
+        "contact" : "+880 186119574",
+        "photo" : "https://i.ibb.co/Kyqn8fj/1.png"
+    },
+    {
+        "name" : "Zaker Ahamed",
+        "designation" : "Graghics Designer",
+        "salary" : "50000",
+        "contact" : "+880 186019574",
+        "photo" : "https://i.ibb.co/Kyqn8fj/1.png"
+    },
+    {
+        "name" : "Narul Islam",
+        "designation" : "Software Engineer",
+        "salary" : "157000",
+        "contact" : "+880 186019574",
+        "photo" : "https://i.ibb.co/Kyqn8fj/1.png"
+    },
+    {
+        "name" : "Majbah Ahamed",
+        "designation" : "Selfie Expert",
+        "salary" : "50000",
+        "contact" : "+880 187919574",
+        "photo" : "https://i.ibb.co/Kyqn8fj/1.png"
+    },
+    {
+        "name" : "Abdur kuddus",
+        "designation" : "Web Developer",
+        "salary" : "59000",
+        "contact" : "+880 17019574",
+        "photo" : "https://i.ibb.co/Kyqn8fj/1.png"
+    },
+    {
+        "name" : "Narul Islam",
+        "designation" : "Web Developer",
+        "salary" : "50000",
+        "contact" : "+880 186019574",
+        "photo" : "https://i.ibb.co/Kyqn8fj/1.png"
+    },
+    {
+        "name" : "Naima Akther",
+        "designation" : "Web Designer",
+        "salary" : "90000",
+        "contact" : "+880 186019574",
+        "photo" : "https://i.ibb.co/Kyqn8fj/1.png"
+    },
+    {
+        "name" : "Abdur Jalil",
+        "designation" : "Wordpress Expert",
+        "salary" : "57000",
+        "contact" : "+880 186019574",
+        "photo" : "https://i.ibb.co/Kyqn8fj/1.png"
+    },
+    {
+        "name" : "Nila Ahamed",
+        "designation" : "Plugin Developer",
+        "salary" : "50000",
+        "contact" : "+880 186019574",
+        "photo" : "https://i.ibb.co/Kyqn8fj/1.png"
+    },
+    {
+        "name" : "Karim ur Rahman",
+        "designation" : "Wordpress Developer",
+        "salary" : "10000",
+        "contact" : "+880 186019574",
+        "photo" : "https://i.ibb.co/Kyqn8fj/1.png"
+    },
+    {
+        "name" : "Latif Ahamed",
+        "designation" : "Web Expert",
+        "salary" : "80000",
+        "contact" : "+880 187019574",
+        "photo" : "https://i.ibb.co/Kyqn8fj/1.png"
+    },
+    {
+        "name" : "Narul Islam",
+        "designation" : "Web Developer",
+        "salary" : "50000",
+        "contact" : "+880 186019574",
+        "photo" : "https://i.ibb.co/Kyqn8fj/1.png"
+    }
+    
+]

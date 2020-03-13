@@ -1,0 +1,32 @@
+.user{
+    display: grid;
+    grid-template-columns: 70% 30%;
+    padding: 50px;
+    gap: 30px;
+}
+.employee-container{
+    display: grid;
+    grid-template-columns: repeat(3, auto);
+    gap: 30px;
+}
+
+.accounts{
+    height: 300px;
+    padding: 10px;
+    text-align: center;
+    border: 1px solid lightgray;
+}
+
+@media only screen and (max-width: 1000px) {
+    .user{
+        grid-template-columns: 1fr;
+    }
+    .employee-container{
+        order: 1;
+    }
+}
+@media only screen and (max-width: 650px){
+    .employee-container{
+        grid-template-columns: 1fr;
+    }
+}
